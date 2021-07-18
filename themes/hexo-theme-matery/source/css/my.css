@@ -1,0 +1,11 @@
+/* Here is your custom css styles. */
+
+/* font */
+@font-face{
+    font-family: 'Noto Serif CJK';
+    src: url('../font/Noto Serif CJK.otf');   
+}
+
+body {
+    font-family: 'Noto Serif CJK'; 
+}
