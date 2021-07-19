@@ -365,7 +365,7 @@ githubLink:
 # See: https://twikoo.js.org
 twikoo:
   enable: true
-  envId: https://lovecl-twikoo.vercel.app/ # 环境 ID，搭建教程：https://twikoo.js.org/quick-start.html
+  envId: https://lovejx-twikoo.vercel.app/ # 环境 ID，搭建教程：https://twikoo.js.org/quick-start.html
   # region: ap-guangzhou # 环境地域，默认为 ap-shanghai
   path: 'window.location.pathname' # 自定义文章路径
 
